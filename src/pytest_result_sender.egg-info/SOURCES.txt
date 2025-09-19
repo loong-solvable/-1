@@ -7,3 +7,4 @@ src/pytest_result_sender.egg-info/dependency_links.txt
 src/pytest_result_sender.egg-info/entry_points.txt
 src/pytest_result_sender.egg-info/requires.txt
 src/pytest_result_sender.egg-info/top_level.txt
+tests/test_abc.py
