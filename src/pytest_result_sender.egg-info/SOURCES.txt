@@ -1,0 +1,9 @@
+pyproject.toml
+src/pytest_result_sender/__init__.py
+src/pytest_result_sender/plugin.py
+src/pytest_result_sender.egg-info/PKG-INFO
+src/pytest_result_sender.egg-info/SOURCES.txt
+src/pytest_result_sender.egg-info/dependency_links.txt
+src/pytest_result_sender.egg-info/entry_points.txt
+src/pytest_result_sender.egg-info/requires.txt
+src/pytest_result_sender.egg-info/top_level.txt
