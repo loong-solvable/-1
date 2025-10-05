@@ -22,6 +22,14 @@ def pytest_collection_finish(session: pytest.Session):
     print("用例的总数: ",data['total'])
 
 
+def pytest_addoption(parser):
+    parser.addini(
+        'send_when',
+        help="何时发送测试结果"
+
+    )
+
+
 def pytest_configure():
 
     # 配置加载完毕后执行，测试用例执行之前
